@@ -3,4 +3,7 @@ IEnumerable<string> listOfDirectories = Directory.EnumerateFiles("stores", "*.tx
 
 foreach (var file in listOfDirectories) {
   Console.WriteLine(file);
+  Console.WriteLine(file);
+  Console.WriteLine(file);
+  Console.WriteLine(file);
 }
