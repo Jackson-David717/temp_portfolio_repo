@@ -5,5 +5,4 @@ foreach (var file in listOfDirectories) {
   Console.WriteLine(file);
   Console.WriteLine(file);
   Console.WriteLine(file);
-  Console.WriteLine(file);
 }
